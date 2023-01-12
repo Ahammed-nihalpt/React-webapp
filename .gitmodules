@@ -1,0 +1,3 @@
+[submodule "react_webapp"]
+	path = react_webapp
+	url = https://github.com/Ahammed-nihalpt/react_webapp.git
